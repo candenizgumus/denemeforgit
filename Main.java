@@ -5,5 +5,10 @@ public class Main {
         System.out.println("Deneme123123123123");
         System.out.println("Deneme123123123123");
         System.out.println("Deneme123123123123");
+        System.out.println("Deneme123123123123");
+        System.out.println("Deneme123123123123");
+        System.out.println("Deneme123123123123");
+        System.out.println("Deneme123123123123");
+        System.out.println("Deneme123123123123");
     }
 }
